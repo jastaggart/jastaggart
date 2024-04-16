@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jasmine! 👋
 
 <!--
 **jastaggart/jastaggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👩‍💻 Projects 
+Check out some of my projects [here](https://github.com/jastaggart/Portfolio)!
+
+## 📚 Tech Stack
+<b>Languages:</b> Bash, C, CSS, HTML, Java, Javascript, SQL, Typescript <br>
+<b>Tools/Frameworks:</b> Git, React, Spring, Cypress, JUnit, Playwright, PostgreSQL, REST API, Docker
+
+## 📫 Connect with Me
+[<img src="https://github.com/jastaggart/jastaggart/assets/97905407/31832415-2db3-4692-a9c0-f1a2d498fa88" alt="linkedin" width="20"/>](https://www.linkedin.com/in/jasmine-taggart/) [LinkedIn](https://www.linkedin.com/in/jasmine-taggart/)
